@@ -1,5 +1,12 @@
+<p align="center">
+  <img src="https://github.com/IuliiaShevtsova/images/blob/main/19lOINXfouM.jpeg?raw=true" width=17% alt= "img">
+  <img src="https://github.com/IuliiaShevtsova/images/blob/main/B0qIv7d6JSg.jpeg?raw=true" width=17% alt= "img2">
+  <img src="https://github.com/IuliiaShevtsova/images/blob/main/PjWjHSWBP84.jpeg?raw=true" width=17% alt= "img3">
+  <img src="https://github.com/IuliiaShevtsova/images/blob/main/n7--fF0_Nyg.jpeg?raw=true" width=17% alt= "img3">
+</p>
+
 <h1 align="center">Hello there! My name is Iuliia Shevtsova-Soßnowski</h1>
-<h3 align="center">I am a plant ecologist (Dr. rer. nat), coding Enthusiast and hard techno producer based in Berlin, Germany!</h3>
+<h3 align="center">I am a plant ecologist (Dr. rer. nat), coding enthusiast and hard techno producer based in Berlin, Germany!</h3>
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
