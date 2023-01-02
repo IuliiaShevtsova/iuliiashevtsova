@@ -18,6 +18,9 @@
   </a> 
    <a href="https://www.qgis.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/IuliiaShevtsova/images/blob/main/logo-qgis.png?raw=true" alt="qgis" width="40" height="40"/> 
+  </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/IuliiaShevtsova/images/blob/main/rYdo1xG.png?raw=true" alt="blender" width="40" height="40"/> 
   </a> 
 </p>
 
