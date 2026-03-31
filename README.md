@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hello there! My name is Iuliia Shevtsova-Soßnowski</h1>
-<h3 align="center">I am a plant ecologist (Dr. rer. nat), a Developer (Data Scientist/Data Engeneer) and hard techno & hard trance producer & DJ based in Berlin, Germany!</h3>
+<h3 align="center">I am a plant ecologist (Dr. rer. nat), a Software Developer (Data Scientist/Data Engeneer) and hard techno & hard trance producer & DJ based in Berlin, Germany!</h3>
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
@@ -18,6 +18,9 @@
   </a> 
    <a href="https://www.qgis.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/IuliiaShevtsova/images/blob/main/logo-qgis.png?raw=true" alt="qgis" width="40" height="40"/> 
+  </a>
+    <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/IuliiaShevtsova/images/blob/main/png-transparent-databricks-logo-thumbnail-tech-companies-thumbnail.png" alt="databricks" width="40" height="40"/> 
   </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/IuliiaShevtsova/images/blob/main/rYdo1xG.png?raw=true" alt="blender" width="40" height="40"/> 
