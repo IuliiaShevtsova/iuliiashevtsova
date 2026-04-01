@@ -37,3 +37,10 @@
       <img src="https://github.com/IuliiaShevtsova/images/blob/main/soundcloud-icon.png?raw=true" alt="soundcloud" width="40" height="40"/> 
     </a>
   </p>
+
+<h4 align="left">Certifications & Learning:</h4>
+  <p align="left">
+    <a href="https://learn.microsoft.com/en-us/users/iuliiashevtsovasonowski-6615/transcript/vjw32syj2ye3rr9" target="_blank" rel="noopener noreferrer">
+    My Microsoft Learn Profile
+    </a>
+  </p>
