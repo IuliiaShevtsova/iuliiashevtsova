@@ -29,8 +29,6 @@
 
 <h4 align="left">External links:</h4>
   <p align="left">
-    <a href="https://orcid.org/my-orcid?orcid=0000-0002-6287-9431" target="_blank" rel="noreferrer">
-      <img src="https://github.com/IuliiaShevtsova/images/blob/main/ORCID-icon.png?raw=true" alt="orcidid" width="40" height="40"/> 
     </a>
     <a href="https://www.xing.com/profile/Iuliia_Shevtsova/cv" target="_blank" rel="noreferrer">
       <img src="https://github.com/IuliiaShevtsova/images/blob/main/Xing-Icon.png?raw=true" alt="xing" width="40" height="40"/> 
