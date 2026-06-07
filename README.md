@@ -22,9 +22,6 @@
     <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/IuliiaShevtsova/images/blob/main/png-transparent-databricks-logo-thumbnail-tech-companies-thumbnail.png" alt="databricks" width="40" height="40"/> 
   </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/IuliiaShevtsova/images/blob/main/rYdo1xG.png?raw=true" alt="blender" width="40" height="40"/> 
-  </a> 
 </p>
 
 <h4 align="left">External links:</h4>
