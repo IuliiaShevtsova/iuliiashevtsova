@@ -30,7 +30,7 @@
     <a href="https://www.xing.com/profile/Iuliia_Shevtsova/cv" target="_blank" rel="noreferrer">
       <img src="https://github.com/IuliiaShevtsova/images/blob/main/Xing-Icon.png?raw=true" alt="xing" width="40" height="40"/> 
     </a>
-    <a href="https://soundcloud.com/julia-shevtsova-480940281" target="_blank" rel="noreferrer">
+    <a href="https://on.soundcloud.com/yxhPE0NGin9X8epZCF" target="_blank" rel="noreferrer">
       <img src="https://github.com/IuliiaShevtsova/images/blob/main/soundcloud-icon.png?raw=true" alt="soundcloud" width="40" height="40"/> 
     </a>
   </p>
