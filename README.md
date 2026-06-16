@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hello there! My name is Iuliia Shevtsova-Soßnowski</h1>
-<h3 align="center">I am a plant ecologist (Dr. rer. nat), a Software Developer (Data Scientist/Data Engeneer) and hard techno & hard trance producer & DJ based in Berlin, Germany!</h3>
+<h3 align="center">I am a plant ecologist (Dr. rer. nat), a Software Developer (Data Scientist/Data Engineer) and hard techno & hard trance producer & DJ based in Berlin, Germany!</h3>
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
